@@ -18,3 +18,4 @@ shapely
 pandarallel
 pyproj
 osmnx
+opencv-python
