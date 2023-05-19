@@ -17,5 +17,5 @@ mercantile
 shapely
 pandarallel
 pyproj
-opencv-python
 osmnx
+opencv-python
