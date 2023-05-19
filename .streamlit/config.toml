@@ -1,6 +1,4 @@
 [server]
-port = 8000
-address = "127.0.0.1"
 enableCORS = true
 enableStaticServing = true
 
@@ -15,10 +13,6 @@ font = "sans serif"
 [client]
 caching = true
 showErrorDetails = false
-
-[browser]
-serverAddress = "127.0.0.1"
-serverPort = 8000
 
 [runner]
 fastReruns = true
